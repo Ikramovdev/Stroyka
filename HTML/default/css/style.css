@@ -12997,13 +12997,13 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-origin {
 }
 
 .block-features__title {
-  font-size: 15px;
+  font-size: 17px;
   line-height: 24px;
   font-weight: 700;
 }
 
 .block-features__subtitle {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .block-features--layout--boxed {
